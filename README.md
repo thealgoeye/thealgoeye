@@ -1,16 +1,30 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm The Algorithmic Eye 👁</h1>
 
-- 🔭 I’m currently working on Backend Projects! 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thealgoeye&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="180" />
+</p>
   
 <p align="center">
   Software Engineer • Open-Source Contributor • Tech Enthusiast
 </p>
 
-<!-- Badges / Quick Facts -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thealgoeye&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+</p>
+
+---
+
+### GitHub Stats
+
+
+<p align="center">  
+   <img src="https://github-profile-trophy.vercel.app/?username=thealgoeye&theme=flat&no-frame=true&margin-w=8" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thealgoeye&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealgoeye&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -33,63 +47,11 @@
 
 ---
 
-### GitHub stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thealgoeye&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealgoeye&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-</p>
-
-<!-- Optional: Streaks / Trophies -->
-<!--
-<p>
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=flat&no-frame=true&margin-w=8" alt="Trophies"/>
-</p>
--->
-
----
-
-### Writing & talks
-- Title — link to blog/video — one line on what readers will learn  
-- Title — link to blog/video — one line on what readers will learn
-
----
-
 ### Let’s connect
-- Website/Blog: your-site.com  
-- LinkedIn: linkedin.com/in/YOUR-HANDLE  
-- Twitter/X: @YOUR-HANDLE  
-- Email: you@domain.com
 
----
-
-<!-- Fun / Optional -->
-<!--
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/>
--->
-
-<!-- Footer note -->
 <p align="center">✨ Thanks for visiting — starring a repo helps others discover it!</p>
 
-
-
-
-
-
-
-
-
-
-## Hi there 👋
-
-<!--
-**thealgoeye/thealgoeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+---
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
